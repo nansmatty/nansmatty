@@ -28,25 +28,25 @@ Since joining GitHub in **July 2018**, I've been on a journey through various te
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" /></span>
-  <span style="margin-right:15px;"><img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" /></span>
-  <span style="margin-right:15px;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" alt="SQLite" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /></span>
-  <span style="margin-right:15px;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="Next.js" /></span>
-  <span style="margin-right:15px;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" alt="Git" /></span>
-  <span style="margin-right:15px;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" alt="Redux" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" /></span>
-  <span style="margin-right:15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma" /></span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />&nbsp;&nbsp;
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" />&nbsp;&nbsp;
+  <img src="https://narayan-general-bucket.s3.ap-south-1.amazonaws.com/nodejs.png" width="40" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" alt="SQLite" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" alt="Git" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" alt="Redux" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma" />&nbsp;&nbsp;
 </p>
 
 ---
@@ -54,15 +54,17 @@ Since joining GitHub in **July 2018**, I've been on a journey through various te
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nansmatty&show_icons=true&locale=en" alt="nansmatty GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nansmatty&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nansmatty&show_icons=true&theme=radical" alt="GitHub Stats" height="200px" width="48%"  />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nansmatty&layout=compact&theme=radical" alt="Top Languages" height="200px" width="48%" />&nbsp;&nbsp;
+  
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nansmatty&margin-w=10" alt="GitHub Trophy" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nansmatty&theme=radical&short_numbers=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nansmatty&theme=radical&margin-w=15&margin-h=15" alt="Trophies" width="100%" />&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  &nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=nansmatty&theme=radical&short_numbers=true" alt="GitHub Streak"  />&nbsp;&nbsp;
 </p>
 
 ---
