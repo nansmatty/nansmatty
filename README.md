@@ -64,7 +64,7 @@ Since joining GitHub in **July 2018**, I've been on a journey through various te
 </p>
 
 <p align="center">
-  &nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=nansmatty&theme=radical&short_numbers=true" alt="GitHub Streak"  />&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=nansmatty&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
