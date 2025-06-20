@@ -63,10 +63,6 @@ Since joining GitHub in **July 2018**, I've been on a journey through various te
   <img src="https://github-profile-trophy.vercel.app/?username=nansmatty&theme=radical&margin-w=15&margin-h=15" alt="Trophies" width="100%" />&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nansmatty&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 📬 Contact Me
