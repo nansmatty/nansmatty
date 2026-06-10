@@ -32,8 +32,10 @@ Covers authentication, full bidding lifecycle, async notifications, and automate
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python  
+**Languages:** JavaScript, TypeScript  
+**Currently Learning:** Python  
 **Frontend:** React.js, Next.js  
+**Mobile:** React Native *(familiar — built projects with it)*  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, PostgreSQL  
 **Cloud & Infra:** AWS (Lambda, CDK, API Gateway, DynamoDB, SQS, EventBridge, Bedrock, Aurora), Docker  
@@ -44,5 +46,6 @@ Covers authentication, full bidding lifecycle, async notifications, and automate
 ## Contact
 
 - **Email:** developernarayan12@gmail.com
-- **LinkedIn:** [linkedin.com/in/narayan-maity](https://www.linkedin.com/in/narayan-maity/)
+- **LinkedIn:** [linkedin.com/in/narayanmaaity](https://www.linkedin.com/in/narayanmaaity/)
+- **X:** [@narayanCodesX](https://x.com/narayanCodesX)
 - **GitHub:** [@nansmatty](https://github.com/nansmatty)
