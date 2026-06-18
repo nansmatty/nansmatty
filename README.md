@@ -38,7 +38,7 @@ Covers authentication, full bidding lifecycle, async notifications, and automate
 **Mobile:** React Native *(familiar — built projects with it)*  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, PostgreSQL  
-**Cloud & Infra:** AWS (Lambda, CDK, API Gateway, DynamoDB, SQS, EventBridge, Bedrock, Aurora), Docker  
+**Cloud & Infra:** AWS (Lambda, CDK, API Gateway, DynamoDB, SQS, EventBridge, Bedrock, Aurora, S3, EC2), Docker  
 **Tools:** Git
 
 ---
